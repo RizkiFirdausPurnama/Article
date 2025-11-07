@@ -1,6 +1,6 @@
 # Proyek GLSC: Website Berita dengan Autentikasi Vue.js & Laravel
 
-Ini adalah proyek *full-stack* yang dibuat untuk memenuhi tugas mata kuliah GLSC dengan tema **"State Management and Login Form with Authentication"**.
+Ini adalah proyek *full-stack* yang dibuat untuk memenuhi tugas GSLC mata kuliah Web Development dengan tema **"State Management and Login Form with Authentication"**.
 
 Aplikasi ini mengimplementasikan sistem autentikasi penuh (Register, Login, Logout) menggunakan **Vue.js** sebagai frontend dan **Laravel** sebagai backend (API). Setelah login, pengguna akan diarahkan ke halaman *home* yang menampilkan *layout* situs berita (sesuai dengan *screenshot* tugas) dengan **tema gelap (dark mode)**.
 
