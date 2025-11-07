@@ -120,6 +120,5 @@ Buka URL frontend (`http://localhost:5174` atau port yang tertera) di browser An
 
 ## 👤 Penulis
 
-* **Nama:** [Nama Lengkap Anda]
-* **NIM:** [NIM Anda]
-* **Kelas:** [Kelas Anda]
+* **Nama:** Rizki Firdaus Purnama
+
