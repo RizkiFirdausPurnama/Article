@@ -2,7 +2,7 @@
 
 Ini adalah proyek *full-stack* yang dibuat untuk memenuhi tugas GSLC mata kuliah Web Development dengan tema **"State Management and Login Form with Authentication"**.
 
-Aplikasi ini mengimplementasikan sistem autentikasi penuh (Register, Login, Logout) menggunakan **Vue.js** sebagai frontend dan **Laravel** sebagai backend (API). Setelah login, pengguna akan diarahkan ke halaman *home* yang menampilkan *layout* situs berita (sesuai dengan *screenshot* tugas) dengan **tema gelap (dark mode)**.
+Aplikasi ini mengimplementasikan sistem autentikasi penuh (Register, Login, Logout) menggunakan **Vue.js** sebagai frontend dan **Laravel** sebagai backend (API). Setelah login, pengguna akan diarahkan ke halaman *home* .
 
 
 
@@ -11,7 +11,7 @@ Aplikasi ini mengimplementasikan sistem autentikasi penuh (Register, Login, Logo
 * **Autentikasi Pengguna:** Sistem Register, Login, dan Logout penuh menggunakan Laravel Sanctum.
 * **Rute Terproteksi (Protected Routes):** Halaman Home (`/home`) tidak dapat diakses sebelum pengguna berhasil login.
 * **State Management:** Menggunakan **Pinia** (dibantu `localStorage`) untuk mengelola dan menyimpan status login pengguna secara global di sisi *client*.
-* **Layout Kustom:** Halaman *home* yang didesain menggunakan Bootstrap 5 agar menyerupai *layout* situs berita (sesuai gambar tugas).
+* **Layout Kustom:** Halaman *home* yang didesain menggunakan Bootstrap 5 agar menyerupai *layout* situs berita 
 * **Tema Gelap:** Seluruh antarmuka pengguna (UI) menggunakan tema gelap (dark mode).
 * **API Backend:** Backend Laravel menyediakan REST API untuk menangani semua logika autentikasi dan pengambilan data pengguna.
 
